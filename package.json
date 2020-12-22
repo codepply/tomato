@@ -1,0 +1,22 @@
+{
+  "name": "tomato",
+  "version": "1.0.0",
+  "description": "Time Tracking App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codepply/tomato.git"
+  },
+  "author": "Muhammad Bobojonov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codepply/tomato/issues"
+  },
+  "homepage": "https://github.com/codepply/tomato#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
